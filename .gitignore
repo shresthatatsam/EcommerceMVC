@@ -6,3 +6,6 @@
 
 /EcommerceMVC/obj/
 /.vs
+/bin
+/bin/
+/EcommerceMVC/bin/Debug/net6.0
